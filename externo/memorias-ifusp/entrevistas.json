@@ -1,0 +1,884 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "nome": "Ana Regina Blak",
+            "descricao": "Formada na primeira turma do IFUSP (mas originalmente vinda da PUC-RJ), instituto separado da antiga Faculdade de Filosofia, Letras e Ciências, Ana Regina, hoje aposentada, fez pesquisas na área de dosimetria, ramo da física que estuda doses de radiação, primeiramente dentro do IEA (Instituto de Energia Atômica), através do IFUSP, no começo dos anos 70. Participou das diversas mudanças que aconteceram nos cursos de bacharelado e licenciatura, acompanhando e influenciando as alterações que visavam reduzir a evasão dos cursos do IF.",
+            "contato_prof": [
+                {
+                    "email": "anablak@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 57 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/AnaRegina_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Dosimetria e caracterização de materiais dosimétricos através de termoluminescência, absorção óptica e ressonância paramagnética eletrônica e simulação computacional estática."
+            ],
+            "links": []
+        },
+        {
+            "id": 2,
+            "nome": "Antônio F. R. de Toledo Piza",
+            "descricao": "O professor Toledo Piza, como é conhecido, tem uma história particular quanto a sua escolha do vestibular. Foi em um livreto da USP, nos anos 50, que viu a física como um curso interessante, sem ter tido motivações anteriores para esse caminho. Depois de formado pela antiga FFLC, foi estudar fora do país, no MIT, doutorando-se em 1966 na área de Física Nuclear Teórica e fazendo seu pós-doutorado pela mesma instituição.\n\nSeu primeiro trabalho na área, ainda na graduação, foi fruto de experiência e aprendizado em laboratório, sob a supervisão do grande Iuda Goldman. Ao retornar ao Brasil, tornou-se livre docente e escreveu um livro sobre Mecânica Quântica bem conhecido dos estudantes de pós-graduação.",
+            "contato_prof": [
+                {
+                    "email": "piza@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 30 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Antonio_Piza_Edit_I_v2.mp3"
+                }
+            ],
+            "tags": [
+                ": Física Nuclear Teórica."
+            ],
+            "links": []
+        },
+        {
+            "id": 3,
+            "nome": "Cecil Chow Robilotta",
+            "descricao": "Vinda de Hong Kong com sua família, Cecil interessou-se inicialmente por Astronomia. Como, na época, não existia um curso nesse tema na USP, ingressou no bacharelado em física. Fez IC no Laboratório Van de Graaf, estudando física nuclear experimental. Ao se formar, tomou o caminho das ciências biomédicas, na área de medicina nuclear. Seu mestrado foi o primeiro apresentado no IF na área de física aplicada à medicina. Aprendeu a parte prática de medicina nuclear no sistema de saúde inglês durante um estágio no Hospital Hammersmith, seguido de um doutorado em processamento de imagens na Universidade de Londres. Participou de diversos projetos de cooperação entre o IF e instituições de saúde, atuou também como consultora em física de medicina nuclear na Agência Internacional de Energia Atômica. Atualmente, professora sênior, faz parte da coordenação do Laboratório de Demonstrações Ernst Wolfgang Hamburger e está envolvida em projetos de divulgação das ciências.",
+            "contato_prof": [
+                {
+                    "email": "cecilcr@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 33 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Cecil_Robilotta_Edit_I_v2.mp3"
+                }
+            ],
+            "tags": [
+                ": Física Médica, com projetos em reconstrução e processamento em PET, SPECT e imagens híbridas, assim como em instrumentação e garantia de qualidade em Medicina Nuclear."
+            ],
+            "links": []
+        },
+        {
+            "id": 4,
+            "nome": "Elcio Abdalla",
+            "descricao": "Bacharel e Doutor em Física pelo IFUSP, foi professor e pesquisador visitante em diversas universidades estrangeiras onde acumulou experiência e traquejo para desenvolver ciência de ponta. Interessado em diferentes áreas da Física Teórica, desde partículas elementares e teoria das cordas até cosmologia e gravitação, Élcio teve seu trabalho reconhecido através do prêmio “Weisskopf”, organizado pelo Centro Internacional de Física Teórica Abdus Salam.\n\nAtualmente é coordenador do projeto BINGO, radiotelescópio que está sendo construído no Brasil, na Serra do Urubu na Paraíba, e que envolve diferentes equipes ao redor do mundo em pesquisa de Astrofísica.\nÉ, ainda, autor do livro: Cosmologia: dos Mitos ao Centenário da Relatividade.",
+            "contato_prof": [
+                {
+                    "email": "eabdalla@usp.br",
+                    "site": "http://fma.if.usp.br/~eabdalla/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 54 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Elcio_Abdalla_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Física Teórica, partículas elementares, teoria das cordas, cosmologia e gravitação."
+            ],
+            "links": [
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.amazon.com.br/Cosmologia-dos-Mitos-Centen%C3%A1rio-Relatividade/dp/8521205538/ref=sr_1_1",
+                    "titulo": "Cosmologia: dos Mitos ao Centenário da Relatividade "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=Fr_WHgPUGpc",
+                    "titulo": "Élcio Abdalla e o Projeto Bingo "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://ivepesp.org.br/prof-dr-elcio-abdalla-projeto-bingo/",
+                    "titulo": "Projeto Bingo "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.redalyc.org/pdf/810/81000302.pdf",
+                    "titulo": "Tecnologia e ciência no centenário do annus mirabilis de Einstein "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.revistas.usp.br/revusp/article/view/13730/15548",
+                    "titulo": "O conceito de tempo, do misticismo aos dias modernos "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.revistas.usp.br/revusp/article/view/35743/38459",
+                    "titulo": "Teoria das supercordas - o limiar de uma nova física teórica "
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nome": "Elisabeth Mateus Yoshimura",
+            "descricao": "Co-autora do livro “Física das Radiações”, que escreveu junto de sua orientadora de doutorado Emico Okuno e que é referência para cursos científicos, a professora Elisabeth atua há mais de 40 anos na área de dosimetria de radiação, possui mais de 100 trabalhos publicados e experiências de pós-doutorado na Itália, Polônia e EUA.\nSua visão sobre as relações humanas, principalmente entre professores e alunos, pavimentou seu caminho para estar em constante atualização sobre como melhorar cursos e avaliações, seja como docente no IFUSP ou em cursos voltados para ciências biológicas. “Devemos nos aproximar mais dos alunos e abordar problemas ao invés de temas / disciplinas…” menciona a pesquisadora na entrevista.\nÉ revisora em diversos periódicos na área de Física Médica e atuou em vários projetos do governo de São Paulo, auxiliando na fiscalização e organização de processos relacionados com radiação.",
+            "contato_prof": [
+                {
+                    "email": "emateus@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 58 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/ElisabethYoshimura_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Dosimetria de radiação, termoluminescência e proteção radiológica."
+            ],
+            "links": [
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.google.com.br/books/edition/F%C3%ADsica_das_radia%C3%A7%C3%B5es/TSaPDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover",
+                    "titulo": "Física das Radiações "
+                },
+                {
+                    "tipo": "VÍDEO",
+                    "link": "https://www.youtube.com/watch?v=ohJWvNQUGWo",
+                    "titulo": "Colóquio sobre Dosimetria Luminescente para Radiação Ionizante - Instituto de Física UFF "
+                },
+                {
+                    "tipo": "VÍDEO",
+                    "link": "https://iptv.usp.br/portal/struts/video.action;jsessionid=93CC633CCEDDFF44A1CCDAB797186144?idItem=17893",
+                    "titulo": "Física Médica: pesquisa, atuação e formação "
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nome": "Emico Okuno",
+            "descricao": "Dificuldades nos estudos e falta de incentivos não impediram Emico de entrar no curso de Física na antiga FFLC, na USP, onde se formou no bacharelado e licenciatura. Continuou suas pesquisas na área de dosimetria de radiação, com o prof. Shigueo Watanabe, doutorando-se em 1971. Foi uma das fundadoras do Laboratório de Dosimetria do IFUSP e trabalhou com o grande físico brasileiro César Lattes.\nPublicou diversos artigos sobre efeitos biológicos da radiação e desastres nucleares, além de livros sobre biomecânica, física do corpo humano e das radiações. Participou da organização da disciplina \"Efeitos Biológicos das Radiações Ionizantes e Não Ionizantes\" do IFUSP, além de ter sido docente em cursos de física nas áreas da saúde.\n\n\nÉ professora sênior do departamento de Física Nuclear do IFUSP.",
+            "contato_prof": [
+                {
+                    "email": "eokuno@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Entrevista Emico Okuno [PDF]",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Entrevista_EmicoOkuno_IFUSP_mar2022_v2.pdf"
+                }
+            ],
+            "tags": [
+                ": Dosimetria de radiação, termoluminescência e proteção radiológica."
+            ],
+            "links": [
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.google.com.br/books/edition/F%C3%ADsica_das_radia%C3%A7%C3%B5es/TSaPDAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover",
+                    "titulo": "Física das Radiações "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.google.com.br/books/edition/F%C3%ADsica_do_Futebol/8p-NBAAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover",
+                    "titulo": "Física do Futebol "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.google.com.br/books/edition/Radia%C3%A7%C3%A3o/dRFaDwAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover",
+                    "titulo": "Radiação: Efeitos, riscos e benefícios "
+                },
+                {
+                    "tipo": "VÍDEO",
+                    "link": "https://www.youtube.com/watch?v=UcXK4_dr788",
+                    "titulo": "Seminário Internacional sobre Usinas Nucleares - Emico Okuno "
+                },
+                {
+                    "tipo": "VÍDEO",
+                    "link": "https://www.youtube.com/watch?v=_UVK-A7tWmo",
+                    "titulo": "Entrevista ao IFUSP - 2012 "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.scielo.br/j/ea/a/9s86bRNRXrHyRTj8xzx4pZh/?format=pdf&lang=pt",
+                    "titulo": "As bombas atômicas podem dizimar a humanidade "
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Fuad Daher Saad",
+            "descricao": "\"Educação, Educação, Educação!\" Este trecho da entrevista com o professor Fuad resume bem suas convicções. Uma das respostas ao problema de educação do Brasil, segundo ele, está no ensino integral e na boa formação de professores, adaptando as metodologias ao mundo dos alunos, que hoje é cercado por novas tecnologias.\n\nFuad é criador e coordenador do maior projeto de divulgação científica do IFUSP, o Show da Física, que já contou com mais de 900 mil alunos participantes e provê uma oportunidade aos estudantes de licenciatura que querem se aprofundar em experimentos que podem ser usados em sala de aula. Sua vocação para educação fica ainda mais proeminente em suas participações como conselheiro científico no Instituto Catavento e na FAPESP, membro do conselho do Centro Paula Souza e em seus diversos cursos de capacitação de professores.",
+            "contato_prof": [
+                {
+                    "email": "fuadsaad@usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 45 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/FuadAssad_I_Edit.mp3"
+                }
+            ],
+            "tags": [
+                ": Educação, Ensino de Física e Planejamento e Avaliação Educacional."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "http://portal.if.usp.br/showdefisica/",
+                    "titulo": "Show da Física "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.google.com.br/books/edition/Demonstra%C3%A7%C3%B5es_em_Ci%C3%AAncias/MtK_ZLDnJHkC?hl=pt-BR&gbpv=1&printsec=frontcover",
+                    "titulo": "Demonstrações em Ciências "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "http://fila.mec.gov.br/manut_sistemas.htm",
+                    "titulo": "Crianças podem e devem pôr as mãos na massa "
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nome": "Henrique Fleming",
+            "descricao": "Primeiro lugar do vestibular em seu ingresso na USP, para o curso de Física na antiga Faculdade de Filosofia, Ciências e Letras, Henrique Fleming trabalhou em diversas áreas da física teórica, desde partículas elementares até relatividade geral. Fez seu doutorado em Turim, sob a supervisão de Enrico Predazzi. Foi co-fundador do CEFISMA e do curso de Ciências Moleculares. Escreveu variados textos de divulgação científica, com foque em histórias da física e sobre importantes físicos, além de notas de aulas de alguns cursos que ministrou no IFUSP.\n\nÉ membro da Academia Brasileira de Ciências e da Academia de Ciências do Estado de São Paulo.",
+            "contato_prof": [
+                {
+                    "email": "fleming@fma.if.usp.br",
+                    "site": "http://www.hfleming.com/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 18 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/HenriqueFleming_Edit_I_2.mp3"
+                }
+            ],
+            "tags": [
+                ": Física teórica, Partículas Elementares, Cosmologia."
+            ],
+            "links": []
+        },
+        {
+            "id": 9,
+            "nome": "Iuda Dawid Goldman Vel Lejbman",
+            "descricao": "“Não quero que meus 90 anos sejam uma antessala para a morte”. Foi essa frase que finalizou nosso bate-papo presencial com o professor Iuda, ainda muito ativo, mesmo com problemas de mobilidade e audição. Nascido em 1932 na Polônia, veio com sua família para o Brasil em 1936, fugindo dos horrores do nazismo alemão.\nFormou-se Engenheiro Mecânico Eletricista e também Bacharel em Física, ambos os títulos obtidos pela USP. Fez o doutorado em Física Nuclear sob orientação do prof. Giorgio Moscati e conviveu com os grandes físicos brasileiros, César Lattes, José Leite Lopes, Marcelo Damy, Oscar Sala, entre outros. Seu trabalho em astrofísica, estudando explosões de supernovas, o levou até Berkley, nos Estados Unidos, onde pôde orientar diversos alunos brasileiros e construir uma reputação notável como físico experimental e docente.\n\n\nÉ atualmente professor livre docente e colaborador sênior do departamento de Física Nuclear.",
+            "contato_prof": [
+                {
+                    "email": "goldman@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 54 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/IudaGoldman_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Estrutura, desintegração e reações nucleares."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://www.ifspcaraguatatuba.edu.br/antigas/coloquio-ministrado-por-professor-titular-da-usp-discutiu-a-fisica-do-universo-no-ifsp-caraguatatuba",
+                    "titulo": "Colóquio - Física do Universo - IFSP "
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nome": "José Goldemberg",
+            "descricao": "Goldemberg é sem dúvidas um dos físicos mais experientes do Brasil. Trabalhou com Marcelo Damy, antes da existência do IFUSP, se graduando pela antiga FFLC. Trabalhou no Canadá, EUA, França, e fez seu doutorado no Brasil, com base nos estudos executados no exterior.\n\nAcumulou não só importantes trabalhos na área de Física Nuclear como tem em seu currículo a participação em quase todas as esferas do serviço público, desde diretor do IFUSP e reitor da USP até secretário estadual e ministro do governo Collor. Seus livros na área de energia sustentável são muito relevantes para pensar o futuro e tiveram influência não só no Brasil como internacionalmente, fato comprovado pelos inúmeros prêmios recebidos.\nÉ um dos pais do projeto de produção de Etanol de maneira sistemática no Brasil, dando as bases científicas para sua viabilização. Também foi uma das vozes contra o programa de construção de usinas nucleares brasileiras.\nAtualmente é pesquisador do IEE-USP, onde continua lecionando e orientando alunos.",
+            "contato_prof": [
+                {
+                    "email": "goldemb@iee.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Entrevista José Goldemberg [PDF]",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/EntrevistaJoseGoldemberg_IFUSP_abr2021_v2.pdf"
+                }
+            ],
+            "tags": [
+                ": Reações fotonucleares, Energias Sustentáveis, Educação e Meio Ambiente."
+            ],
+            "links": [
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.edusp.com.br/livros/energia-meio-ambiente-e-desenvolvimento/",
+                    "titulo": "Energia e Meio Ambiente "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.blucher.com.br/energias-renovaveis_9788521206088",
+                    "titulo": "Energias Renováveis "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistapesquisa.fapesp.br/de-critico-a-arauto/",
+                    "titulo": "De Crítico a Arauto. "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistapesquisa.fapesp.br/jose-goldemberg-da-fisica-nuclear-ao-etanol/",
+                    "titulo": "Da Física Nuclear ao Etanol "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "http://cienciaecultura.bvs.br/pdf/cic/v70n3/v70n3a02.pdf",
+                    "titulo": "Uma TraJetória de Sucesso para o Desenvolvimento do País "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=T95vLW2KpEY",
+                    "titulo": "Ex-Ministros de Educação do Brasil (Entrevista) "
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nome": "Kaline Coutinho",
+            "descricao": "Bacharel em Física pela UFPE, como única remanescente de sua turma de entrada, entrou no mestrado em primeiro lugar, também na UFPE, onde começou seus estudos em Mecânica Estatística. Veio para o IFUSP no ínicio dos anos 90 para obter o doutorado num tema multidisciplinar, que é a Modelagem Molecular, com o professor Mário José de Oliveira, pesquisador na área de Termodinâmica/Mecânica Estatística, e o professor Sylvio Canuto na área de Física Atômica e Molecular. Antes de entrar como pesquisadora do IFUSP, trabalhou arduamente em diversas frentes como professora/pesquisadora/administradora numa universidade da rede privada, seja dando aulas, desenvolvendo pesquisa, participando de colaborações dentro e fora do país, e organizando eventos científicos, seja desenvolvendo o software DICE, que utiliza o método de Monte Carlo para simulações computacionais em sistemas moleculares complexos de diferentes tipos.\nNa estrutura administrativa da USP, fez parte da Comissão Coordenadora do curso de Ciências Moleculares, foi coordenadora da Comissão Coordenadora do curso de Bacharelado de Física (CoC-B), foi chefe do Departamento de Física Geral (DFGE), foi coordenadora da Comissão de Informática e do Centro de Computação do IFUSP e coordenou uma rede científica em Biologia Computacional entre USP/UFPE.\n\n\nFoi agraciada, junto de seus alunos e alunas, com 11 prêmios de reconhecimento pela qualidade dos trabalhos executados. Atualmente é professora titular do DFGE.",
+            "contato_prof": [
+                {
+                    "email": "kaline@if.usp.br",
+                    "site": "https://portal.if.usp.br/gfmm/kaline"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 2 horas e 14 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Kaline_Coutinho_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": mecânica estatística, modelagem molecular com ênfase em simulação computacional."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://portal.if.usp.br/dice/pt-br",
+                    "titulo": "Página do software DICE "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=EaMpZIYxlBw",
+                    "titulo": "Pesquisas com captura de CO2 e produção de energia solar "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=l_Vq9hDvPVg",
+                    "titulo": "Simulações QM/MM com o método de Monte Carlo "
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nome": "Lia Queiroz do Amaral",
+            "descricao": "Lia tem uma trajetória singular no instituto. Primeira professora titular do IF USP, fez seus estudos de mestrado a partir da experiência de um estágio na Suécia, durante a Guerra Fria, consolidando seu conhecimento sobre física de reatores nucleares. Teve participação fundamental na criação do laboratório de Cristalografia e foi co-fundadora do Departamento de Física Aplicada.",
+            "contato_prof": [
+                {
+                    "email": "amaral@if.usp.br",
+                    "site": "http://fap.if.usp.br/~amaral/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 2 horas e 13 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/LiaQueirozII_Edit2.mp3"
+                },
+                {
+                    "titulo": "Episódio II - 47 minutos",
+                    "ordem": 2,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/LiaQueirozII_Edit_EP2.mp3"
+                },
+                {
+                    "titulo": "Memórias do IFUSP [PDF]",
+                    "ordem": 3,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Lia_Queiroz_TextoPrincipal_Memorias.pdf"
+                }
+            ],
+            "tags": [
+                ": Física da Matéria Condensada e Evolução Física Humana."
+            ],
+            "links": [
+                {
+                    "tipo": "PDF",
+                    "link": "http://fap.if.usp.br/~amaral/Amaral_CH_2015.pdf",
+                    "titulo": "Por que andamos de pé e não somos peludos? "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "http://portal.if.usp.br/cristal/pt-br/node/327",
+                    "titulo": "Histórico sobre o laboratório de Cristalografia "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.livrariadafisica.com.br/detalhe_produto.aspx?id=142930",
+                    "titulo": "Entre sólidos e líquidos - Uma visão contemporânea e multidisciplinar "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://jornal.usp.br/artigos/o-processo-de-validacao-do-conhecimento-cientifico/",
+                    "titulo": "O processo de validação do conhecimento científico "
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "nome": "Marcia Fantini",
+            "descricao": "Tendo passado inicialmente em Matemática na Unicamp, mas não podendo cursar a escolha por não ter concluído o equivalente ao ensino médio na época, no ano seguinte Márcia ingressou no curso de Física, obtendo os títulos de bacharel e licenciada ambos pela Unicamp. Sua área de pesquisa, a cristalografia, foi escolhida ainda na graduação, onde também teve a oportunidade de realizar uma iniciação científica em um grupo que pesquisava sobre Energia Solar. Para mestrado e doutorado, construiu os equipamentos necessários para a conclusão dos estudos e depois partiu para um período de pós-graduação no exterior, na Universidade da Cidade de Nova York, nos EUA. Teve papel fundamental no desenvolvimento da nova tecnologia de vacinas orais em parceria com o Instituto Butantan, escreveu mais de 120 artigos, é revisora de importantes periódicos na área de matéria condensada e foi ganhadora do prêmio Mercosul de Ciência e Tecnologia por duas vezes.",
+            "contato_prof": [
+                {
+                    "email": "mfantini@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 28 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Marcia_Fantini_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Estrutura de Líquidos e Sólidos e Cristalografia."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://www5.usp.br/noticias/especial-2/manipulacao-de-nanomateriais-pode-eliminar-necessidade-de-vacinas-injetaveis/",
+                    "titulo": "Manipulação de nanomateriais pode eliminar necessidade de vacinas injetáveis "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://midia.if.usp.br/node/392",
+                    "titulo": "Entrevista IFUSP - 2012 "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=Ncm5PW0dth0",
+                    "titulo": "Física e desenvolvimento de vacinas orais "
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "nome": "Mário José de Oliveira",
+            "descricao": "Mário doutorou-se na prestigiada Universidade Carnegie-Mellon nos EUA depois de fazer licenciatura/bacharelado e mestrado no IFUSP. Seu interesse em Mecânica Estatística, sua área de pesquisa há mais de 40 anos, surgiu em debates durante seu mestrado. Seu trabalho sobre transição de fases em um sistema com campo oscilante teve grande impacto na área, assim como seus livros sobre Termodinâmica e Dinâmica Estocástica. Teve grande influência no departamento de Física Geral do IFUSP, seja trabalhando com pesquisadores na área de simulações computacionais ou orientando dezenas de alunos e alunas em modelagem de fenômenos em física da matéria condensada.\n\n\nÉ professor titular do IFUSP e membro titular da Acadêmica de Ciências do Estado de São Paulo.",
+            "contato_prof": [
+                {
+                    "email": "oliveira@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Entrevista Mário José de Oliveira [PDF]",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/EntrevistaMarioJoseOliveira_IFUSP_dez2021_v2.pdf"
+                }
+            ],
+            "tags": [
+                ": Física da matéria condensada, mecânica estatística, termodinâmica, simulações computacionais."
+            ],
+            "links": [
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.livrariadafisica.com.br/detalhe_produto.aspx?id=141669&titulo=TERMODIN%C3%82MICA++2+ed.+-+capa+dura",
+                    "titulo": "Termodinâmica "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.edusp.com.br/livros/dinamica-estocastica-e-irreversibilidade/",
+                    "titulo": "Dinâmica Estocástica e Irreversibilidade "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.scielo.br/j/rbef/a/cx7TKjnZpbBc3k5bqR3XWMs/?lang=en&format=pdf",
+                    "titulo": "Structure of the Scientific Theories "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://www.scielo.br/j/rbef/a/czjtmGDVbtGnVKYPBfK3DTm/?lang=en&format=pdf",
+                    "titulo": "Structure of the analytical physical theories "
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "nome": "Marina Nielsen",
+            "descricao": "Muito interessada por física, matemática e química durante o ensino médio, Marina foi incentivada por seu professor da época, Fuad Assad, pesquisador do IFUSP, a seguir na carreira de física. Obteve seus títulos de bacharel, mestre e doutora em física pela USP, estudando Física de Hádrons e Modelos Nucleares Relativísticos. Teve experiências importantes de pós-doutorado em Coimbra e Maryland e como professora visitante em Stanford.\nÉ reconhecida pelos alunos como uma ótima docente, sempre se esforçando para incentivar as discussões em sala de aula e motivar o aprendizado profundo dos temas mais importantes da Física, seja no curso de licenciatura ou bacharelado. Teve trabalhos importantes na área de Cromodinâmica Quântica, reconhecidos internacionalmente.\n\nAtualmente é professora titular aposentada.",
+            "contato_prof": [
+                {
+                    "email": "mnielsen@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 54 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Marina_Nielsen_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Física de Hádrons e Modelos Nucleares Relativísticos."
+            ],
+            "links": [
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=n54VXsVn7xA&t=2s",
+                    "titulo": "O que são Partículas Elementares? "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://midia.if.usp.br/node/400",
+                    "titulo": "Entrevista IFUSP - 2012 "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistapesquisa.fapesp.br/os-quarks-e-suas-combinacoes-exoticas/",
+                    "titulo": "Os quarks e suas combinações exóticas "
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "nome": "Mauro Cattani",
+            "descricao": "Com mais de 5000 citações de seus trabalhos publicados, Mauro publicou trabalhos em quase todas as áreas de Física durante sua longa carreira no IFUSP.",
+            "contato_prof": [
+                {
+                    "email": "mcattani@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Memórias do IFUSP [PDF]",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Mauro_Cattani_TextoPrincipal_Memorias.pdf"
+                }
+            ],
+            "tags": [
+                ": Física teórica e física de plasmas."
+            ],
+            "links": [
+                {
+                    "tipo": "PDF",
+                    "link": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Mauro_Cattani_TextoCesarLattes.pdf",
+                    "titulo": "César Lattes e a descoberta do Méson PI "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://books.google.com.br/books?hl=pt-BR&lr=&id=LLjLDwAAQBAJ&oi=fnd&pg=PP8&dq=Mauro+Sergio+Cattani&ots=8oOPmePcel&sig=kJpZmk8uwgNuyX03z_A1IGf4VGw&redir_esc=y#v=onepage&q=Mauro%20Sergio%20Cattani&f=false",
+                    "titulo": "Elementos de Mecânica dos Fluídos "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://periodicos.ufsc.br/index.php/fisica/article/view/2175-7941.2018v35n2p440",
+                    "titulo": "O Prêmio Nobel de Física de 2017 e as Instituições Brasileiras de Pesquisas Físicas "
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "nome": "Mikya Muramatsu",
+            "descricao": "Filho de imigrantes japoneses, que vieram para o Brasil sem educação formal,\nMikya não se curvou aos obstáculos para receber uma educação de qualidade, mesmo estando longe\ndos centros urbanos que ofereciam escolas com maior nível de organização.\nObteve sua formação pela USP, licenciado e bacharel em Física, titulando-se depois mestre, na área de educação, e\ne doutor em ótica, ambos pelo IFUSP. Em uma época sem um grupo focado em educação dentro do\nInstituto de Física, Mikya criou seu próprio caminho, partipando ativamente na formação de professores e\nem eventos para o público geral. São destaques o \"Arte e Ciência no Parque\", \"Vivendo a USP\" e seu trabalho\npor muitos anos na Estação Ciência.\n\nFoi ganhador do prêmio Ernest Hamburger em 2021 por seu trabalho em popularizar as ciências naturais.\n\n\nAtualmente é professor sênior do IFUSP.",
+            "contato_prof": [
+                {
+                    "email": "mmuramat@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 30 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Mikya_Muramatsu_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Educação de Ciências Físicas e Ótica, ."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://sbfisica.org.br/v1/sbf/",
+                    "titulo": "Mikiya Muramatsu vence Prêmio Ernesto Hamburger de 2021 "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://portal.if.usp.br/imprensa/sites/portal.if.usp.br.ifusp/files/Release%20sobre%20o%20Projeto%20Arte%20%26%20Ci%C3%AAncia%20no%20Parque.pdf",
+                    "titulo": "Prêmio Nobel se encanta com projeto da USP "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://prceu.usp.br/wp-content/uploads/2020/09/AF3_USP-INTEGRA%C3%A7%C3%A3o_E4_P%C3%A1ginas.pdf#page=24",
+                    "titulo": "Entrevista para Revista USP - 2020 (página 24) "
+                },
+                {
+                    "tipo": "Palestra - Arte e Ciência na Escol",
+                    "link": "https://www.youtube.com/watch?v=BR6wnh10V0o",
+                    "titulo": "Palestra - Arte e Ciência na Escol"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "nome": "Ricardo Galvão",
+            "descricao": "Fez sua graduação em Engenharia de Telecomunicações pela UFF. Seu mestrado, o primeiro da Unicamp na área, foi em Engenharia Elétrica. Seu doutorado em Física Aplicada foi feito no prestigiado MIT.\n\nAlém de pesquisador competente, Ricardo ficou marcado como cientista íntegro e corajoso, características tornadas públicas no episódio em que saiu em defesa dos dados fornecidos pelo INPE, onde era até então diretor. Sob uma chuva de acusações sem fundamento, conseguiu proteger a qualidade da pesquisa científica do instituto e, na medida do possível, mantê-lo livre de influências políticas nocivas.\n\nFoi um dos responsáveis pela construção do Tokamak brasileiro, o TBR-1, máquina utilizada para pesquisas em fusão nuclear.\n\nFoi diretor do CBPF e da SBF e recebeu diversos prêmios durante sua carreira, entre os quais se destacam \"Comendador da Ordem Nacional do Mérito Científico\" e \"Nature's 10 Ten people who mattered in science (2019)\".",
+            "contato_prof": [
+                {
+                    "email": "rgalvao@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 23 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Ricardo_Galvao_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Física de Plasmas, Tokamak, Fusão Nuclear Controlada."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistatrip.uol.com.br/trip-fm/ricardo-galvao-meio-ambiente-ciencia-e-censura",
+                    "titulo": "Meio Ambiente, Ciência e Censura "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistapesquisa.fapesp.br/ricardo-magnus-osorio-galvao-o-fisico-que-nao-se-dobra/",
+                    "titulo": "O Físico que Não se Dobra "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=M578qjLB6L4",
+                    "titulo": "Entre Vistas com o ex-diretor do Inpe, Ricardo Galvão "
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "nome": "Shigueo Watanabe",
+            "descricao": "Ao longo de seus 97 anos de idade, mais de 70 deles dedicados a pesquisa, ensino de Física e Matemática e orientação e supervisão de dezenas de alunos de mestrado e doutorado, o professor Shigueo parece unanimidade entre seus pares, seja pela enorme influência que teve na fundação de instituições essenciais para o desenvolvimento da ciência e matemática no Brasil, como a \"Associação Brasileira de Física Médica\" e a \"Olimpíada Paulista de Matemática\", seja pelo seu trabalho expressivo na área de Física Nuclear, estudando termoluminescência e cristais iônicos (com ênfase em minerais naturais brasileiros de silicatos).\nO professor teve a experiência ímpar de conviver com grandes nomes da Física brasileira como Gleb Wataghin, César Lattes, Abrahão de Moraes, Marcelo Damy, Mario Schenberg e Oscar Sala.\n\nFez seu doutoramento nos EUA, em uma época onde não havia pós-graduação (Stricto Sensu) estruturada no Brasil, e obteve o título em apenas 18 meses! Foi pioneiro em adaptar técnicas de termoluminescência, aprendidas na Universidade de Austin no Texas, ao cenário brasileiro, durante seu trabalho no IPEN.\n\nFoi criador do laboratório de dosimetria termoluminescente no IEA.",
+            "contato_prof": [
+                {
+                    "email": "watanabe@if.usp.br",
+                    "site": "-"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Entrevista Shigueo Watanabe [PDF]",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/EntrevistaShigueoWatanabe_IFUSP_set2021_v2.pdf"
+                }
+            ],
+            "tags": [
+                ": Física nuclear, cristais iônicos, termoluminescência."
+            ],
+            "links": [
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://midia.if.usp.br/node/444",
+                    "titulo": "Entrevista com Shigueo Watanabe para o vídeo institucional do IFUSP "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=lWtbQ33x2ag",
+                    "titulo": "Vida de Cientista - Shigueo Watanabe "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "http://portal.if.usp.br/memoria/pt-br/cienciaecultura.bvs.br/pdf/cic/v62nspe2/v62nspe2a09.pdf",
+                    "titulo": "Entrevista: Shigueo Watanabe sobre Oscar Sala "
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "nome": "Silvio Salinas",
+            "descricao": "Aluno originalmente do ITA, expulso e preso durante o regime militar, foi para USP estudar Física e Engenharia Elétrica simultaneamente em meados dos anos 60. Foi assistente do prof. José Goldemberg na cadeira de Física Geral e estudou nos EUA, na Carnegie-Mellon University, orientado por John F. Nagle. Acompanhou as grandes mudanças entre válvulas e transistores e lançou um livro-texto muito conhecido no bacharelado do IF, utilizado na disciplina de Mecânica Estatística: \"Introdução à Física Estatística\". É membro titular da Academia Brasileira de Ciências, recebeu o prêmio Jabuti em 1998, foi agraciado com a Grã-Cruz da Ordem Nacional do Mérito Científico e é engenheiro \"Honoris Causa\" pelo Instituto Tecnológico de Aeronáutica. Foi diretor do Instituto de Física e do departamento de Física Geral. Editor da Revista Brasileira de Ensino de Física.",
+            "contato_prof": [
+                {
+                    "email": "ssalinas@if.usp.br",
+                    "site": "http://fig.if.usp.br/~ssalinas"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 51 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/SilvioSalinas_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Física estatística, com enfase em modelos estatísticos para transições de fase."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://revistapesquisa.fapesp.br/silvio-roberto-de-azevedo-salinas-um-fisico-de-altas-e-baixas-temperaturas/",
+                    "titulo": "Entrevista: Um físico de altas e baixas temperaturas "
+                },
+                {
+                    "tipo": "LIVRO",
+                    "link": "https://www.edusp.com.br/livros/introducao-a-fisica-estatistica/",
+                    "titulo": "Introdução à Física Estatística "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=c0I-0pI9TA4",
+                    "titulo": "Entrevista para o programa \"Vida de cientista\" "
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "nome": "Sylvio Canuto",
+            "descricao": "Formado no ambiente rico, interdisciplinar e estimulante da Unb, Sylvio se apresentou para o bacharelado em Física durante o período mais violento e repressivo do Regime Militar no Brasil. Isso não o impediu, porém, de compartilhar com colegas e professores as vantagens de ter departamentos além da Física no mesmo local, fato que lhe permitiu estudar de forma mais profunda as disciplinas do curso de Matemática, por exemplo. No retorno de seus estudos de doutorado na Suécia, onde desenvolveu trabalhos pioneiros na área de Química Quântica, Simulação Computacional e Modelagem Molecular, se envolveu com a vida administrativa, exercendo influência não só nos rumos da sua área de estudo, mas também nos departamentos de física da UFGM e UFPE. Primeiro lugar no concurso para professor do IFUSP, Sylvio acumula atualmente as atividades no departamento de Física Geral e de pró-reitor de pesquisa da USP.\n\nFoi condecorado com a comenda da Ordem Nacional do Mérito Científico.",
+            "contato_prof": [
+                {
+                    "email": "canuto@if.usp.br",
+                    "site": "https://gfmm.if.usp.br/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 54 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Sylvio_Canuto_Edit_I.mp3"
+                }
+            ],
+            "tags": [
+                ": Química quântica, simulação computacional e modelagem molecular."
+            ],
+            "links": [
+                {
+                    "tipo": "HTML",
+                    "link": "https://jornal.usp.br/universidade/professor-da-usp-e-indicado-membro-da-academia-mundial-de-ciencias/",
+                    "titulo": "Professor da USP é indicado membro da Academia Mundial de Ciências "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://ufal.br/ufal/noticias/2018/3/cientista-de-projecao-internacional-destaca-importancia-da-70a-reuniao-da-sbpc",
+                    "titulo": "Cientista de projeção internacional destaca importância da 70ª Reunião da SBPC "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://jornal.usp.br/institucional/a-importancia-nem-sempre-obvia-da-ciencia-produzidas-nas-universidades-publicas/",
+                    "titulo": "A importância – nem sempre óbvia – da ciência produzida nas universidades públicas "
+                },
+                {
+                    "tipo": "VÍDEO",
+                    "link": "https://www.youtube.com/watch?v=ngJGZzdXth8",
+                    "titulo": "Live: Caminhos da Pesquisa em PPGs de Excelência "
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "nome": "Valmir Antônio Chitta",
+            "descricao": "Com trabalhos muito relevantes na área de Física de Materiais, Valmir fez graduação pela UFScar, mestrado pela USP e seguiu para a Universidade Joseph Fourier na França para seu doutorado e pós-doutorado. Auxiliou na construção do laboratório de física do estado sólido na UFSCar e seguiu para a USP depois de uma breve experiência em uma universidade privada, ajudando na construção de um projeto de pós-graduação na área de materiais. Ao longo de sua carreira, desenvolveu importantes trabalhos na área de semicondutores. Além disso, ajudou na estruturação dos laboratórios de física experimental no IFUSP, seja na parte de pesquisa ou docência, melhorando a relação aluno e professor e no aprendizado geral dos temas experimentais.\nAtualmente é livre-docente pelo IFUSP.",
+            "contato_prof": [
+                {
+                    "email": "vchitta@if.usp.br",
+                    "site": "http://www.fmt.if.usp.br/~vchitta/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 25 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/VamilChitta_EP_I_Parte_I_Edit_v2.mp3"
+                },
+                {
+                    "titulo": "Episódio II - 1 hora e 13 minutos",
+                    "ordem": 2,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/VamilChitta_EP_I_Parte_II_Edit.mp3"
+                }
+            ],
+            "tags": [
+                ": Física do Estado Sólido, Semicondutores e Nanoestruturas."
+            ],
+            "links": [
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=Ty18lEQeIig",
+                    "titulo": "Nanopartículas magnéticas aplicadas ao tratamento do câncer "
+                },
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=MhxrtBTfG2Q",
+                    "titulo": "Óxidos magnéticos diluídos - Aplicações na spintrônica "
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "nome": "Vera Bohomoletz Henriques",
+            "descricao": "Tendo terminado seu ensino médio na Rússia, época em que seus pais eram perseguidos por ideologias políticas no Brasil, Vera se graduou em ciências na prestigiosa Universidade de Edimburgo, na Escócia. Obteve seu mestrado e doutorado pela USP, sob supervisão do professor Silvio Salinas. Seu interesse por ciências humanas e pela relação universidade-escola é antiga, tanto que chegou a cursar história concomitantemente com suas pesquisas em física. Atua na área de Física Estatística, com aplicações na área de colóides, simulações computacionais e moléculas biológicas, mas é na educação que seu trabalho tem maior destaque, tendo participado e criado iniciativas importantes como “Universidade e Escola Pública”, “Vivendo a USP” e “Encontro USP-Escola”.",
+            "contato_prof": [
+                {
+                    "email": "vhenriques@if.usp.br",
+                    "site": "https://fig.if.usp.br/~vera/"
+                }
+            ],
+            "audio": [
+                {
+                    "titulo": "Episódio I - 1 hora e 12 minutos",
+                    "ordem": 1,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Vera_Henriques_EP_I_Edit_I.mp3"
+                },
+                {
+                    "titulo": "Episódio II - 1 hora e 11 minutos",
+                    "ordem": 2,
+                    "entrevista": "https://portal.if.usp.br/memoria/sites/portal.if.usp.br.ifusp/files/Vera_Henriques_EP_II_Edit_I_v2.mp3"
+                }
+            ],
+            "tags": [
+                ": Física Estatística, Colóides, Moléculas Biológicas e Simulações Computacionais."
+            ],
+            "links": [
+                {
+                    "tipo": "VIDEO",
+                    "link": "https://www.youtube.com/watch?v=-MhWvDdQK54",
+                    "titulo": "Física ao Vivo - Sociedades Científicas e Política Nacional de Educação Básica-um diálogo necessário "
+                },
+                {
+                    "tipo": "HTML",
+                    "link": "https://www.fenep.org.br/single-de-noticia/nid/projeto-da-usp-para-o-ensino-basico-ja-capacitou-mais-de-6-mil-professores/",
+                    "titulo": "Projeto da USP para o ensino básico já capacitou mais de 6 mil professores "
+                },
+                {
+                    "tipo": "PDF",
+                    "link": "https://axpfep1.if.usp.br/~profis/ATAS_EPA/ATA_EPA_2010/trabalhos/P01.pdf",
+                    "titulo": "Ensino de Física no Ensino Fundamental - Observação, Experimentação, Ação e Linguagem "
+                }
+            ]
+        }
+    ]
+}
